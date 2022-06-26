@@ -2,4 +2,9 @@
   height: 97vh;
   width: 95vw;
   background-color: lightgray;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
